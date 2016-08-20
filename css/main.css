@@ -7,5 +7,6 @@ body {
 }
 .panel-primary > .panel-heading{
     color: #0f0f0a;
+    background-color:#0f0f0a;
     border-color:#0f0f0a;
 }
