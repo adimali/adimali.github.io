@@ -5,8 +5,10 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
-.panel-primary > .panel-heading{
-    color: #0f0f0a;
+.panel > .panel-heading{
     background-color:#0f0f0a;
+    border-color:#0f0f0a;
+}
+.panel {
     border-color:#0f0f0a;
 }
