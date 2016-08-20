@@ -1,4 +1,7 @@
 body {
-    background-image: url('/images/background_2.JPG');
-    background-size:cover;
+    background: url('/images/background_2.JPG') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
