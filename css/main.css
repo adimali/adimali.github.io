@@ -6,5 +6,6 @@ body {
     -o-background-size: cover;
 }
 .panel-primary {
-     background-color: #194719; 
+    color: #0f0f0a;
+    border-color:#0f0f0a;
 }
