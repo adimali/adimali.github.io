@@ -5,6 +5,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    padding-top: 70px; 
 }
 .panel > .panel-heading{
     background-color:#0f0f0a;
